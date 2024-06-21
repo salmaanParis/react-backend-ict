@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-backend-ict/static/css/main.e6c13ad2.css",
+    "main.js": "/react-backend-ict/static/js/main.c6e45e33.js",
+    "static/js/453.42ffca26.chunk.js": "/react-backend-ict/static/js/453.42ffca26.chunk.js",
+    "index.html": "/react-backend-ict/index.html",
+    "main.e6c13ad2.css.map": "/react-backend-ict/static/css/main.e6c13ad2.css.map",
+    "main.c6e45e33.js.map": "/react-backend-ict/static/js/main.c6e45e33.js.map",
+    "453.42ffca26.chunk.js.map": "/react-backend-ict/static/js/453.42ffca26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c6e45e33.js"
+  ]
+}
